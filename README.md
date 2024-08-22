@@ -9,10 +9,6 @@ This is a simple Tic Tac Toe game implemented using Python's Tkinter library. Th
 - Automatic Winner Detection: The game checks for a winner after each move and displays the result. If there's no winner and the board is full, it declares the game a draw.
 - Reset Functionality: Automatically resets the board after a game ends.
 
-## Requirements
-
-The project requires Python and the Tkinter library, which is included with most Python installations.
-
 ## Usage
 
 1. Clone the repository:
