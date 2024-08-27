@@ -1,6 +1,6 @@
 # Tic Tac Toe Game
 
-This is a simple Tic Tac Toe game implemented using Python's Tkinter library. The game features a graphical user interface where two players can play against each other on the same computer.
+This is a simple Tic Tac Toe game implemented using Python's Tkinter library.This game is only in two-player mode and does not have a single-player mode. The singleplayer mode is under construction, and once the project is finished, the project will be placed in a new repository called advanced Tic Tac Toe.The game features a graphical user interface where two players can play against each other on the same computer.
 
 ## Features
 
